@@ -11,11 +11,11 @@ Welcome to **Fliers Travel Agency**! 🌟 Your ultimate travel companion for exp
 ## Getting Started 🚀
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/wanderlust-wonders.git
+    git clone https://github.com/bawanisandunika/Travel-Agency-Simple-Web-Site
     ```
 2. Navigate to the project directory:
     ```sh
-    cd wanderlust-wonders
+    cd Travel Agency 
     ```
 3. Open `index.html` in your browser to start exploring!
 
